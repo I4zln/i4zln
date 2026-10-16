@@ -10,8 +10,11 @@
 
 ![Location](https://img.shields.io/badge/Makkah-Saudi_Arabia-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![UQU](https://img.shields.io/badge/Umm_Al--Qura_University-Year_2-0b7a4b?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/)
-[![Email](https://img.shields.io/badge/Email-Aziz4zl@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aziz4zl@outlook.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="https://img.shields.io/badge/LinkedIn-Abdulaziz_Al--Matrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" /></a>
+&nbsp;
+<a href="mailto:aziz4zl@outlook.com"><img src="https://img.shields.io/badge/aziz4zl@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="38" /></a>
 
 </div>
 
@@ -19,10 +22,24 @@
 
 ## 🎮 Press Start
 
-> **مرحباً 👋** I'm Abdulaziz, a Software Engineering student in Makkah.
-> I started with a Computer Science diploma, fixed real computers and networks during my trainings, and now I'm leveling up into full-stack web development.
->
-> I learn best by **building something real**, then breaking it, then fixing it better.
+<table>
+<tr>
+<td width="32%" align="center">
+
+<img src="./assets/about.png" width="100%" alt="Abdulaziz" />
+
+</td>
+<td>
+
+**مرحباً 👋** I'm Abdulaziz, a Software Engineering student in Makkah.
+
+I started with a Computer Science diploma, fixed real computers and networks during my trainings, and now I'm leveling up into full-stack web development.
+
+I learn best by **building something real**, then breaking it, then fixing it better.
+
+</td>
+</tr>
+</table>
 
 ```js
 const abdulaziz = {
@@ -41,15 +58,15 @@ const abdulaziz = {
 
 ## 🧙 Character Sheet
 
-| Stat | Level | |
+| Stat | Level | Progress |
 |:--|:--:|:--|
-| 🌐 Web Development | **LV 6** | `██████░░░░` |
-| 🧱 Backend (PHP / Laravel) | **LV 6** | `██████░░░░` |
-| 🗄️ Databases (SQL / MySQL) | **LV 6** | `██████░░░░` |
-| ⚛️ React.js | **LV 5** | `█████░░░░░` |
-| 🧠 Data Structures (Java) | **LV 4** | `████░░░░░░` |
-| 🛠️ IT Support & Troubleshooting | **LV 7** | `███████░░░` |
-| 🤝 Teamwork & Event Organizing | **LV 7** | `███████░░░` |
+| 🌐 Web Development | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
+| 🧱 Backend (PHP / Laravel) | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
+| 🗄️ Databases (SQL / MySQL) | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
+| ⚛️ React.js | **LV 5** | <img src="https://progress-bar.xyz/50/?width=180&color=8b5cf6&title=" alt="50%" /> |
+| 🧠 Data Structures (Java) | **LV 4** | <img src="https://progress-bar.xyz/40/?width=180&color=8b5cf6&title=" alt="40%" /> |
+| 🛠️ IT Support & Troubleshooting | **LV 7** | <img src="https://progress-bar.xyz/70/?width=180&color=8b5cf6&title=" alt="70%" /> |
+| 🤝 Teamwork & Event Organizing | **LV 7** | <img src="https://progress-bar.xyz/70/?width=180&color=8b5cf6&title=" alt="70%" /> |
 
 <sub>Levels are my honest self-rating, and they go up every week.</sub>
 
@@ -155,12 +172,13 @@ That's why I try to build things that are simple to use and hard to break. 😄
 
 ## 📫 Join My Party
 
-I'm open to **internships, collaborations, and project ideas**. Send me a message, and if you have a quest worth doing, count me in.
+I'm open to **internships, collaborations, and project ideas**. If you have a quest worth doing, count me in.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulaziz_Al--Matrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/)
-[![Email](https://img.shields.io/badge/Email_me-Aziz4zl@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Aziz4zl@outlook.com)
+<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="44" /></a>
+&nbsp;&nbsp;
+<a href="mailto:aziz4zl@outlook.com"><img src="https://img.shields.io/badge/Email-aziz4zl@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="44" /></a>
 
 <br/>
 
