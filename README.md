@@ -43,7 +43,7 @@ After finishing my diploma, I did hands-on IT training in real organizations, an
 | Degree | University | Period | Details |
 |:--|:--|:--|:--|
 | **BSc in Software Engineering** | Umm Al-Qura University | 2025 – 2029 | Currently in second year. Data structures, OOP, requirements engineering, software design |
-| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 | GPA 3.31 / 4.00. Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
+| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 |  Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
 
 ## 💼 Experience
 
