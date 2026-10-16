@@ -1,103 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdulaziz%20Al-Matrafi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=عبدالعزيز%20المطرفي%20•%20Player%20One%20of%20this%20repo&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abdulaziz%20Al-Matrafi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descSize=16" width="100%" />
 
-<a href="https://github.com/I4zln">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=%3E+booting+abdulaziz.exe...;%3E+Software+Engineering+student+%40+UQU;%3E+I+build+things+with+React+%26+Laravel;%3E+currently+grinding%3A+Level+2+%F0%9F%8E%AE;%3E+ready+for+the+next+quest..." alt="typing intro" />
-</a>
-
-<br/>
-
-![Location](https://img.shields.io/badge/Makkah-Saudi_Arabia-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
-![UQU](https://img.shields.io/badge/Umm_Al--Qura_University-Year_2-0b7a4b?style=for-the-badge)
-<br/>
-
-<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="https://img.shields.io/badge/LinkedIn-Abdulaziz_Al--Matrafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" /></a>
-&nbsp;
-<a href="mailto:aziz4zl@outlook.com"><img src="https://img.shields.io/badge/aziz4zl@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="38" /></a>
+![Location](https://img.shields.io/badge/Makkah-Saudi_Arabia-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
+![UQU](https://img.shields.io/badge/Umm_Al--Qura_University-Year_2-0b7a4b?style=flat-square)
+![Open](https://img.shields.io/badge/Open_to-Internships-8b5cf6?style=flat-square)
 
 </div>
 
----
-
-## 🎮 Press Start
+## 👋 About Me
 
 <table>
 <tr>
-<td width="32%" align="center">
+<td width="34%" align="center">
 
-<img src="./imagegit.png" width="100%" alt="Abdulaziz" />
+<img src="./imagegit.png" width="100%" alt="Abdulaziz Al-Matrafi" />
 
 </td>
 <td>
 
-**مرحباً 👋** I'm Abdulaziz, a Software Engineering student in Makkah.
+Hi, I'm **Abdulaziz**, a Software Engineering student at **Umm Al-Qura University** in Makkah.
 
-I started with a Computer Science diploma, fixed real computers and networks during my trainings, and now I'm leveling up into full-stack web development.
+I started with a Computer Science diploma, did hands-on IT training in real organizations, and now I'm focused on building full-stack web applications.
 
-I learn best by **building something real**, then breaking it, then fixing it better.
+💻 I build with **React.js, Laravel, PHP and SQL**
+🧩 I enjoy turning a real problem into a working system
+📚 I'm currently studying data structures, OOP and software design
+
+**What I do:**
+
+- **Full-Stack Web Development:** building web apps from database to interface
+- **Problem Solving:** troubleshooting and supporting real users, from IT support experience
+- **Teamwork:** member of Tuwaiq Club, organized its launch ceremony
 
 </td>
 </tr>
 </table>
 
-```js
-const abdulaziz = {
-  class:      "Full-Stack Web Developer (in training)",
-  guild:      "Tuwaiq Club",
-  homeBase:   "Makkah, Saudi Arabia 🕋",
-  mainWeapons: ["React.js", "Laravel", "PHP", "SQL"],
-  secondary:  ["Java", "JavaScript", "HTML/CSS"],
-  languages:  { Arabic: "Native", English: "Advanced" },
-  currentQuest: "Data Structures + building full-stack projects",
-  lookingFor: "Internships and teams where I can ship and learn fast",
-};
-```
+## 💼 Experience
 
----
+| Role | Organization | Highlights |
+|:--|:--|:--|
+| **IT Trainee** | Ministry of Education, Makkah | Built a PHP + MySQL workshop request system that replaced manual handling of maintenance and device requests. Received a certificate of appreciation from the Head of IT |
+| **Technical Support Trainee** | Makkah Municipality | 10-week program across network, systems, cybersecurity, maintenance and user support |
+| **AI Development Program** | Pathy × IBM eyouth | Completed the program and built the course project with IBM Bob |
+| **Member / Event Organizer** | Tuwaiq Club | Event organization manager for the club's launch ceremony |
 
-## 🧙 Character Sheet
+## 🚀 Projects
 
-| Stat | Level | Progress |
-|:--|:--:|:--|
-| 🌐 Web Development | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
-| 🧱 Backend (PHP / Laravel) | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
-| 🗄️ Databases (SQL / MySQL) | **LV 6** | <img src="https://progress-bar.xyz/60/?width=180&color=8b5cf6&title=" alt="60%" /> |
-| ⚛️ React.js | **LV 5** | <img src="https://progress-bar.xyz/50/?width=180&color=8b5cf6&title=" alt="50%" /> |
-| 🧠 Data Structures (Java) | **LV 4** | <img src="https://progress-bar.xyz/40/?width=180&color=8b5cf6&title=" alt="40%" /> |
-| 🛠️ IT Support & Troubleshooting | **LV 7** | <img src="https://progress-bar.xyz/70/?width=180&color=8b5cf6&title=" alt="70%" /> |
-| 🤝 Teamwork & Event Organizing | **LV 7** | <img src="https://progress-bar.xyz/70/?width=180&color=8b5cf6&title=" alt="70%" /> |
+| Project | Description | Stack |
+|:--|:--|:--|
+| **PC Parts Store + PC Builder** | Saudi PC components store with a builder that checks part compatibility and suggests upgrades | `React` `Laravel` `SQL` |
+| **Workshop Request System** | Tracks maintenance, device and returned-item requests in one workflow | `PHP` `MySQL` |
+| **Sprout & Crumb** | Website for a fictional vegan bakery with menu, story and preorders | `Web` `IBM Bob` |
 
-<sub>Levels are my honest self-rating, and they go up every week.</sub>
-
----
-
-## 🗺️ Quest Log
-
-### ✅ Completed
-- 🏛️ **Workshop Request System** (Ministry of Education, Makkah)
-  Built a PHP + MySQL system that replaced manual paperwork for maintenance, device, and returned-item requests with one tracked workflow. Tested it with the department's feedback and earned a **certificate of appreciation** from the Head of IT.
-- 🛠️ **IT Support Training** (Makkah Municipality)
-  10 weeks rotating through network, systems, cybersecurity, maintenance, and user support.
-- 🤖 **AI Development Program** (Pathy × IBM eyouth)
-  Finished the program and built the course project with **IBM Bob**.
-- 🥐 **Sprout & Crumb**
-  A website for a fictional vegan bakery: menu, story, and preorders.
-
-### ⚔️ In Progress
-- 🖥️ **PC Parts Store + PC Builder**
-  A Saudi PC components store where the builder checks **compatibility** between parts and suggests upgrades. This is my favorite project right now.
-- 🎓 **BSc Software Engineering** (2025 → 2029)
-  Data structures, OOP, requirements engineering, software design.
-
-### 🔒 Locked (coming soon)
-- 🌟 A big full-stack project with auth, dashboard, and deployment
-- 🌟 First open-source contribution
-- 🌟 A real internship in software development
-
----
-
-## 🎒 Inventory
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -115,75 +72,35 @@ const abdulaziz = {
 
 </div>
 
----
-
-## 📊 Stats Screen
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=I4zln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4zln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=I4zln&theme=tokyonight&hide_border=true&background=0f0c29" />
-
 </div>
 
----
-
-## 🐍 Side Quest: Feed the Snake
-
-My contribution graph is a snake game. Every commit I push is food 🟩
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I4zln/I4zln/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/I4zln/I4zln/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/I4zln/I4zln/output/github-snake-dark.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/I4zln/I4zln/output/github-snake-dark.svg" />
   </picture>
 </div>
 
----
+## 📫 Contact
 
-## 🕹️ Player Preferences
-
-| | |
-|:--|:--|
-| 🎯 **Playstyle** | Build first, polish second, then refactor |
-| ☕ **Fuel** | Coffee and a good playlist |
-| 🧩 **Favorite boss fights** | Bugs that only happen on the demo day |
-| 🏗️ **Favorite loot** | Clean code that someone else can read |
-| 🎮 **Co-op ready** | I like teams, and I've organized events for Tuwaiq Club's launch ceremony |
-
-<details>
-<summary>🔐 <b>Cheat code (click me)</b></summary>
-
-<br/>
-
-```
-↑ ↑ ↓ ↓ ← → ← → B A
-```
-
-You found it. Here's the real secret: I started in IT support, so I know how real users break software.
-That's why I try to build things that are simple to use and hard to break. 😄
-
-</details>
-
----
-
-## 📫 Join My Party
-
-I'm open to **internships, collaborations, and project ideas**. If you have a quest worth doing, count me in.
+I'm open to internships, collaborations and project ideas.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="44" /></a>
+<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" /></a>
 &nbsp;&nbsp;
-<a href="mailto:aziz4zl@outlook.com"><img src="https://img.shields.io/badge/Email-aziz4zl@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="44" /></a>
+<a href="mailto:aziz4zl@outlook.com"><img src="https://img.shields.io/badge/Email-aziz4zl@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="42" /></a>
 
-<br/>
-
-`GAME ON` &nbsp;•&nbsp; **شكراً لزيارتك** 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
 </div>
