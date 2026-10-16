@@ -26,7 +26,7 @@
 <tr>
 <td width="32%" align="center">
 
-<img src="./assets/about.png" width="100%" alt="Abdulaziz" />
+<img src="./imagegit.png" width="100%" alt="Abdulaziz" />
 
 </td>
 <td>
