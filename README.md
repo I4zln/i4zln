@@ -4,6 +4,7 @@
 
 ![Location](https://img.shields.io/badge/Makkah-Saudi_Arabia-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
 ![UQU](https://img.shields.io/badge/Umm_Al--Qura_University-Year_2-0b7a4b?style=flat-square)
+![Diploma](https://img.shields.io/badge/Diploma_Graduate-Computer_Science_%26_Programming-0b7a4b?style=flat-square)
 ![Open](https://img.shields.io/badge/Open_to-Internships-8b5cf6?style=flat-square)
 
 </div>
@@ -19,9 +20,9 @@
 </td>
 <td>
 
-Hi, I'm **Abdulaziz**, a Software Engineering student at **Umm Al-Qura University** in Makkah.
+Hi, I'm **Abdulaziz**, a **Diploma graduate in Computer Science and Programming** and a current **Software Engineering student** at **Umm Al-Qura University** in Makkah.
 
-I started with a Computer Science diploma, did hands-on IT training in real organizations, and now I'm focused on building full-stack web applications.
+After finishing my diploma, I did hands-on IT training in real organizations, and now I'm focused on building full-stack web applications.
 
 💻 I build with **React.js, Laravel, PHP and SQL**
 🧩 I enjoy turning a real problem into a working system
@@ -36,6 +37,13 @@ I started with a Computer Science diploma, did hands-on IT training in real orga
 </td>
 </tr>
 </table>
+
+## 🎓 Education
+
+| Degree | University | Period | Details |
+|:--|:--|:--|:--|
+| **BSc in Software Engineering** | Umm Al-Qura University | 2025 – 2029 | Currently in second year. Data structures, OOP, requirements engineering, software design |
+| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 | GPA 3.31 / 4.00. Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
 
 ## 💼 Experience
 
