@@ -20,19 +20,19 @@
 </td>
 <td>
 
-Hi, I'm **Abdulaziz**, a **Diploma graduate in Computer Science and Programming** and a current **Software Engineering student** at **Umm Al-Qura University** in Makkah.
+Hi, I'm **Abdulaziz** 👋 I graduated with a **diploma in Computer Science and Programming**, and I'm now a **Software Engineering student** at **Umm Al-Qura University** in Makkah.
 
-After finishing my diploma, I did hands-on IT training in real organizations, and now I'm focused on building full-stack web applications.
+I like building things people can actually use. During my training I fixed real computers, supported real users, and built a small system that replaced a manual process. That's what pulled me into full-stack web development.
 
-💻 I build with **React.js, Laravel, PHP and SQL**
-🧩 I enjoy turning a real problem into a working system
-📚 I'm currently studying data structures, OOP and software design
+- 💻 I build with **React.js, Laravel, PHP and SQL**
+- 🧩 I enjoy turning a real problem into a working system
+- 📚 I'm currently studying data structures, OOP and software design
 
 **What I do:**
 
 - **Full-Stack Web Development:** building web apps from database to interface
-- **Problem Solving:** troubleshooting and supporting real users, from IT support experience
-- **Teamwork:** member of Tuwaiq Club, organized its launch ceremony
+- **Problem Solving:** troubleshooting and supporting real users, thanks to my IT support experience
+- **Teamwork:** member of Tuwaiq Club, where I organized the launch ceremony
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ After finishing my diploma, I did hands-on IT training in real organizations, an
 | Degree | University | Period | Details |
 |:--|:--|:--|:--|
 | **BSc in Software Engineering** | Umm Al-Qura University | 2025 – 2029 | Currently in second year. Data structures, OOP, requirements engineering, software design |
-| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 |  Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
+| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 | Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
 
 ## 💼 Experience
 
@@ -65,20 +65,56 @@ After finishing my diploma, I did hands-on IT training in real organizations, an
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+<sub>Hover over an icon to see its name, and click it to open the official site</sub>
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="18%"><h3>🎨<br/>Frontend</h3></td>
+<td width="42%">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="56" height="56" title="HTML5" alt="HTML5" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="56" height="56" title="CSS3" alt="CSS3" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="56" height="56" title="JavaScript" alt="JavaScript" /></a>&nbsp;
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" title="React.js" alt="React.js" /></a>
+
+</td>
+<td>Responsive pages and component-based interfaces</td>
+</tr>
+<tr>
+<td align="center"><h3>⚙️<br/>Backend</h3></td>
+<td>
+
+<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="56" height="56" title="PHP" alt="PHP" /></a>&nbsp;
+<a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" width="56" height="56" title="Laravel" alt="Laravel" /></a>&nbsp;
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="56" height="56" title="Java" alt="Java" /></a>
+
+</td>
+<td>Server-side logic with PHP and Laravel, plus Java for my university coursework</td>
+</tr>
+<tr>
+<td align="center"><h3>🗄️<br/>Database</h3></td>
+<td>
+
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" title="MySQL" alt="MySQL" /></a>
+
+</td>
+<td>Designing tables and writing SQL queries</td>
+</tr>
+<tr>
+<td align="center"><h3>🧰<br/>Tools</h3></td>
+<td>
+
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="56" height="56" title="Git" alt="Git" /></a>&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="56" height="56" title="GitHub" alt="GitHub" /></a>&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" title="VS Code" alt="VS Code" /></a>
+
+</td>
+<td>Version control and day-to-day development</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -91,7 +127,7 @@ After finishing my diploma, I did hands-on IT training in real organizations, an
 
 ## 📫 Contact
 
-I'm open to internships, collaborations and project ideas.
+I'm open to internships, collaborations and project ideas. Feel free to reach out.
 
 <div align="center">
 
