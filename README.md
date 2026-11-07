@@ -10,12 +10,30 @@
 
 ## 👋 About me
 
-`$ whoami`
+```text
+$ whoami
+Abdulaziz Al-Matrafi
 
-**Abdulaziz Al-Matrafi**, Software Engineering student
-at Umm Al-Qura University, Makkah.
+$ cat role.txt
+Software Engineering Student
+Full-Stack Web Developer
 
-`$ cat about.txt`
+$ cat study.txt
+B.Sc. in Software Engineering, 2025 – 2029
+Umm Al-Qura University
+
+$ cat interests.txt
+- Full-stack web applications
+- Software design
+- Data structures
+- System analysis
+
+$ cat looking-for.txt
+Opportunities to contribute to software
+development projects, collaborate with
+technical teams, and grow as a software
+engineer.
+```
 
 I started programming quite naturally. I kept coming across beautiful websites
 where people shared their ideas and turned what was in their heads into
@@ -31,31 +49,61 @@ I'm working on growing in project management and becoming professional in
 UI/UX. At the same time, I'm improving how I secure websites and how I make
 them scalable, so they can handle a huge number of visitors.
 
-`$ cat interests.txt`
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
 
-- Full-stack web applications
-- Software design
-- Data structures
-- System analysis
+## 💼 Experience
 
-`$ cat looking-for.txt`
+<img src="./assets/journey.svg" width="100%" alt="Journey. 2022 – 2025: Diploma in Programming and Computer Science, Umm Al-Qura University. Aug – Nov 2024: IT Trainee, Ministry of Education, Makkah Region, certificate of appreciation. Nov 2024 – Jan 2025: Technical Support Trainee, Makkah Municipality, 10-week cooperative training. 2025 – 2029: B.Sc. in Software Engineering, Umm Al-Qura University, member of Tuwaiq Club." />
 
-- Opportunities to contribute to software development projects
-- Collaborating with technical teams
-- Growing as a software engineer
+### IT Trainee — Ministry of Education, Makkah Region
+
+*Development & Transformation Directorate (IT Department) · Aug 2024 – Nov 2024*
+
+- Designed and developed a web-based workshop request management system for
+  the IT Department, replacing manual handling of maintenance, device, and
+  returned-item requests with a single tracked workflow.
+- Built it with PHP and MySQL, including request submission, status tracking,
+  and data management.
+- Tested and refined the system with feedback from the department during
+  development.
+- Supported day-to-day IT operations: troubleshooting and maintaining computers
+  and smart devices, and handling technical requests.
+- Received a certificate of appreciation from the Head of the IT Department for
+  outstanding effort during the training period.
+
+### Technical Support Trainee — Makkah Municipality
+
+*Technical Support Department · Nov 2024 – Jan 2025 (10-week cooperative training)*
+
+- Rotated across five areas: network support, systems support, cybersecurity
+  support, maintenance, and end-user support.
+- Provided first-line support to end users and helped resolve hardware,
+  operating system, and network issues.
+- Performed computer maintenance and troubleshooting as part of routine IT
+  operations.
+- Gained exposure to cybersecurity support tasks and IT service workflows.
+- Completed the program with a certificate of completion.
+
+### Also
+
+- **AI Development Program** · Pathy × IBM eyouth: completed the program and
+  built Tarkeeb with IBM Bob.
+- **Event Organizer** · Tuwaiq Club: organized the club's launch ceremony.
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
 <br />
 
-## 🛠️ Tech stack
+## 🛠️ Skills
 
-| Area | Tools |
-|:--|:--|
-| **Frontend** | `React.js` `JavaScript` `HTML` `CSS` |
-| **Backend** | `Laravel` `PHP` `Java` |
-| **Databases** | `SQL` `MySQL` `PostgreSQL` |
-| **Tools** | `Git` `GitHub` `Docker` `VS Code` |
+| Category | Items |
+|---|---|
+| Languages | PHP, JavaScript, Java, SQL |
+| Frameworks / Libraries | React.js, Laravel |
+| Databases | MySQL |
+| Areas | Full-stack web development, Software design, Data structures, System analysis, UI/UX (learning) |
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -105,49 +153,6 @@ A website for a fictional vegan bakery.
 - Preorders
 
 **Stack:** `Web` `IBM Bob`
-
-<br />
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br />
-
-## 💼 Experience
-
-<details>
-<summary><b>IT Trainee</b> · Ministry of Education, Makkah Region · Aug – Nov 2024</summary>
-<br />
-
-- Built a PHP and MySQL request system that replaced manual work
-- Received a certificate of appreciation from the Head of IT
-
-</details>
-
-<details>
-<summary><b>Technical Support Trainee</b> · Makkah Municipality · Nov 2024 – Jan 2025</summary>
-<br />
-
-- 10-week cooperative training
-- Networks and systems
-- Cybersecurity
-- Maintenance and user support
-
-</details>
-
-<details>
-<summary><b>AI Development Program</b> · Pathy × IBM eyouth</summary>
-<br />
-
-- Completed the program
-- Built Tarkeeb with IBM Bob
-
-</details>
-
-<details>
-<summary><b>Event Organizer</b> · Tuwaiq Club</summary>
-<br />
-
-- Organized the club's launch ceremony
-
-</details>
 
 <br />
 <img src="./assets/divider.svg" width="100%" alt="" />
