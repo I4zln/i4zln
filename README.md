@@ -13,157 +13,94 @@
 
 <table>
 <tr>
-<td width="34%" align="center">
+<td width="30%" align="center">
 
 <img src="./imagegit.png" width="100%" alt="Abdulaziz Al-Matrafi" />
 
 </td>
 <td>
 
-Hi, I'm **Abdulaziz** 👋 I graduated with a **diploma in Computer Science and Programming**, and I'm now a **Software Engineering student** at **Umm Al-Qura University** in Makkah.
+Hi, I'm **Abdulaziz** 👋 a **Software Engineering student** at **Umm Al-Qura University** in Makkah, and a graduate of its **Computer Science and Programming diploma**.
 
-I like building things people can actually use. During my training I fixed real computers, supported real users, and built a small system that replaced a manual process. That's what pulled me into full-stack web development.
+I like building things people can actually use, from the database to the interface. Working in IT support taught me to start from a real problem and finish with something that works.
 
-- 💻 I build with **React.js, Laravel, PHP and SQL**
-- 🧩 I enjoy turning a real problem into a working system
-- 🌿 My latest project: **[مِداد · MIDAD](https://midad-zcbt.onrender.com)**, an Arabic quotes and poetry library, live now
-- 📚 I'm currently studying data structures, OOP and software design
-
-**What I do:**
-
-- **Full-Stack Web Development:** building web apps from database to interface
-- **Problem Solving:** troubleshooting and supporting real users, thanks to my IT support experience
-- **Teamwork:** member of Tuwaiq Club, where I organized the launch ceremony
+- 💻 I build with **Laravel, PHP, React.js and SQL**
+- 🌿 Latest: **[مِداد · MIDAD](https://midad-zcbt.onrender.com)**, an Arabic quotes library, live now
+- 📚 Studying data structures, OOP and software design
+- 🤝 Member and event organizer at **Tuwaiq Club**
 
 </td>
 </tr>
 </table>
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-| Degree | University | Period | Details |
-|:--|:--|:--|:--|
-| **BSc in Software Engineering** | Umm Al-Qura University | 2025 – 2029 | Currently in second year. Data structures, OOP, requirements engineering, software design |
-| **Diploma in Computer Science and Programming** ✅ *Graduated* | Umm Al-Qura University | 2022 – 2025 | Programming, databases, networks and web development with PHP, MySQL, Laravel and React.js |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://midad-zcbt.onrender.com"><img src="./assets/midad-home.png" width="100%" alt="MIDAD home page" /></a>
+
+### مِداد · MIDAD
+
+An Arabic quotes and poetry library. Readers share the quotes that stayed with them, save, comment and follow, and a Discover feed ranks quotes for each reader.
+
+`Laravel` `PostgreSQL` `Docker`
+
+**[Live demo](https://midad-zcbt.onrender.com) · [Code](https://github.com/I4zln/midad)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy"><img src="./assets/tarkeeb-builder.png" width="100%" alt="Tarkeeb PC Builder" /></a>
+
+### Tarkeeb · تركيب
+
+A PC hardware platform. Build a PC with live compatibility, power and price checks, learn where every part goes, and shop, in English and Arabic.
+
+`HTML` `CSS` `JavaScript` `IBM Bob`
+
+**[Code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy)**
+
+</td>
+</tr>
+</table>
+
+**More projects**
+
+- **Workshop Request System** `PHP` `MySQL`: replaced the manual handling of maintenance and device requests at the Ministry of Education in Makkah
+- **Sprout & Crumb** `IBM Bob`: a website for a fictional vegan bakery, with a menu, its story and preorders
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,java,mysql,postgres,git,github,docker,vscode&perline=13" alt="HTML, CSS, JavaScript, React, PHP, Laravel, Java, MySQL, PostgreSQL, Git, GitHub, Docker, VS Code" />
+</p>
 
 ## 💼 Experience
 
 | Role | Organization | Highlights |
 |:--|:--|:--|
-| **IT Trainee** | Ministry of Education, Makkah | Built a PHP + MySQL workshop request system that replaced manual handling of maintenance and device requests. Received a certificate of appreciation from the Head of IT |
-| **Technical Support Trainee** | Makkah Municipality | 10-week program across network, systems, cybersecurity, maintenance and user support |
-| **AI Development Program** | Pathy × IBM eyouth | Completed the program and built the course project with IBM Bob |
-| **Member / Event Organizer** | Tuwaiq Club | Event organization manager for the club's launch ceremony |
+| **IT Trainee** | Ministry of Education, Makkah | Built a PHP and MySQL request system that replaced manual work; certificate of appreciation from the Head of IT |
+| **Technical Support Trainee** | Makkah Municipality | 10 weeks across networks, systems, cybersecurity, maintenance and user support |
+| **AI Development Program** | Pathy × IBM eyouth | Completed the program and built Tarkeeb with IBM Bob |
+| **Event Organizer** | Tuwaiq Club | Organized the club's launch ceremony |
 
-## ⭐ Featured Project: مِداد · MIDAD
+## 🎓 Education
 
-<div align="center">
-
-<a href="https://midad-zcbt.onrender.com"><img src="./assets/midad-home.png" width="100%" alt="MIDAD home page" /></a>
-
-**An Arabic quotes and poetry library where readers share the words that stayed with them.**
-
-<a href="https://midad-zcbt.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit_MIDAD-c08a5b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
-<a href="https://github.com/I4zln/midad"><img src="https://img.shields.io/badge/Source_Code-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-
-</div>
-
-<table>
-<tr>
-<td width="77%"><img src="./assets/midad-discover.png" width="100%" alt="Discover page on desktop" /></td>
-<td width="23%"><img src="./assets/midad-mobile.png" width="100%" alt="Discover page on a phone" /></td>
-</tr>
-</table>
-
-I built MIDAD from the database to the interface. Readers browse and search quotes, share their own, save what they love, comment, and follow readers with similar taste, all in a full Arabic right-to-left interface with light and dark themes.
-
-- **Discover (اكتشف):** one quote per screen, ranked for each reader by freshness, appreciation and their favourite categories and authors
-- **Admin panel:** search and moderate quotes, and a safe password-recovery flow that works even when email is unavailable
-- **Built to be trusted:** CSRF protection, a strict Content-Security-Policy, rate limits and 140+ automated tests
-- **Fast under load:** tested with 50 visitors at once, 95% of requests finished in under 150 ms with zero errors
-
-<p>
-<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
-<img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-</p>
-
-## 🚀 Projects
-
-| Project | Description | Stack |
+| Degree | University | Period |
 |:--|:--|:--|
-| **MIDAD · مِداد** ([live](https://midad-zcbt.onrender.com) · [code](https://github.com/I4zln/midad)) | Arabic quotes and poetry library with a personalised Discover feed, community features and an admin panel | `Laravel` `PostgreSQL` `Docker` |
-| **[PC Parts Store + PC Builder](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy)** | Saudi PC components store with a builder that checks part compatibility and suggests upgrades | `React` `Laravel` `SQL` |
-| **Workshop Request System** | Tracks maintenance, device and returned-item requests in one workflow | `PHP` `MySQL` |
-| **Sprout & Crumb** | Website for a fictional vegan bakery with menu, story and preorders | `Web` `IBM Bob` |
+| **BSc in Software Engineering** (second year) | Umm Al-Qura University | 2025 – 2029 |
+| **Diploma in Computer Science and Programming** ✅ | Umm Al-Qura University | 2022 – 2025 |
 
-## 🛠️ Tech Stack
+## 📊 GitHub Activity
 
-<div align="center">
-<sub>Hover over an icon to see its name, and click it to open the official site</sub>
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="18%"><h3>🎨<br/>Frontend</h3></td>
-<td width="42%">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="56" height="56" title="HTML5" alt="HTML5" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="56" height="56" title="CSS3" alt="CSS3" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="56" height="56" title="JavaScript" alt="JavaScript" /></a>&nbsp;
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" title="React.js" alt="React.js" /></a>
-
-</td>
-<td>Responsive pages and component-based interfaces</td>
-</tr>
-<tr>
-<td align="center"><h3>⚙️<br/>Backend</h3></td>
-<td>
-
-<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="56" height="56" title="PHP" alt="PHP" /></a>&nbsp;
-<a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" width="56" height="56" title="Laravel" alt="Laravel" /></a>&nbsp;
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="56" height="56" title="Java" alt="Java" /></a>
-
-</td>
-<td>Server-side logic with PHP and Laravel, plus Java for my university coursework</td>
-</tr>
-<tr>
-<td align="center"><h3>🗄️<br/>Database</h3></td>
-<td>
-
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" title="MySQL" alt="MySQL" /></a>&nbsp;
-<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" title="PostgreSQL" alt="PostgreSQL" /></a>
-
-</td>
-<td>Designing tables, keys and indexes, and writing SQL queries</td>
-</tr>
-<tr>
-<td align="center"><h3>🧰<br/>Tools</h3></td>
-<td>
-
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="56" height="56" title="Git" alt="Git" /></a>&nbsp;
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="56" height="56" title="GitHub" alt="GitHub" /></a>&nbsp;
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" title="VS Code" alt="VS Code" /></a>&nbsp;
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="56" height="56" title="Docker" alt="Docker" /></a>
-
-</td>
-<td>Version control, containers and deploying to the web</td>
-</tr>
-</table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=I4zln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4zln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I4zln&theme=tokyonight" width="100%" alt="GitHub contributions" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=I4zln&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub streak" />
+</p>
 
 ## 📫 Contact
 
