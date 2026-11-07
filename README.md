@@ -26,6 +26,7 @@ I like building things people can actually use. During my training I fixed real 
 
 - 💻 I build with **React.js, Laravel, PHP and SQL**
 - 🧩 I enjoy turning a real problem into a working system
+- 🌿 My latest project: **[مِداد · MIDAD](https://midad-zcbt.onrender.com)**, an Arabic quotes and poetry library, live now
 - 📚 I'm currently studying data structures, OOP and software design
 
 **What I do:**
@@ -54,11 +55,48 @@ I like building things people can actually use. During my training I fixed real 
 | **AI Development Program** | Pathy × IBM eyouth | Completed the program and built the course project with IBM Bob |
 | **Member / Event Organizer** | Tuwaiq Club | Event organization manager for the club's launch ceremony |
 
+## ⭐ Featured Project: مِداد · MIDAD
+
+<div align="center">
+
+<a href="https://midad-zcbt.onrender.com"><img src="./assets/midad-home.png" width="100%" alt="MIDAD home page" /></a>
+
+**An Arabic quotes and poetry library where readers share the words that stayed with them.**
+
+<a href="https://midad-zcbt.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Visit_MIDAD-c08a5b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/I4zln/midad"><img src="https://img.shields.io/badge/Source_Code-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+
+</div>
+
+<table>
+<tr>
+<td width="77%"><img src="./assets/midad-discover.png" width="100%" alt="Discover page on desktop" /></td>
+<td width="23%"><img src="./assets/midad-mobile.png" width="100%" alt="Discover page on a phone" /></td>
+</tr>
+</table>
+
+I built MIDAD from the database to the interface. Readers browse and search quotes, share their own, save what they love, comment, and follow readers with similar taste, all in a full Arabic right-to-left interface with light and dark themes.
+
+- **Discover (اكتشف):** one quote per screen, ranked for each reader by freshness, appreciation and their favourite categories and authors
+- **Admin panel:** search and moderate quotes, and a safe password-recovery flow that works even when email is unavailable
+- **Built to be trusted:** CSRF protection, a strict Content-Security-Policy, rate limits and 140+ automated tests
+- **Fast under load:** tested with 50 visitors at once, 95% of requests finished in under 150 ms with zero errors
+
+<p>
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
+<img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
+
 ## 🚀 Projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **PC Parts Store + PC Builder** | Saudi PC components store with a builder that checks part compatibility and suggests upgrades | `React` `Laravel` `SQL` |
+| **MIDAD · مِداد** ([live](https://midad-zcbt.onrender.com) · [code](https://github.com/I4zln/midad)) | Arabic quotes and poetry library with a personalised Discover feed, community features and an admin panel | `Laravel` `PostgreSQL` `Docker` |
+| **[PC Parts Store + PC Builder](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy)** | Saudi PC components store with a builder that checks part compatibility and suggests upgrades | `React` `Laravel` `SQL` |
 | **Workshop Request System** | Tracks maintenance, device and returned-item requests in one workflow | `PHP` `MySQL` |
 | **Sprout & Crumb** | Website for a fictional vegan bakery with menu, story and preorders | `Web` `IBM Bob` |
 
@@ -98,10 +136,11 @@ I like building things people can actually use. During my training I fixed real 
 <td align="center"><h3>🗄️<br/>Database</h3></td>
 <td>
 
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" title="MySQL" alt="MySQL" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" title="MySQL" alt="MySQL" /></a>&nbsp;
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" title="PostgreSQL" alt="PostgreSQL" /></a>
 
 </td>
-<td>Designing tables and writing SQL queries</td>
+<td>Designing tables, keys and indexes, and writing SQL queries</td>
 </tr>
 <tr>
 <td align="center"><h3>🧰<br/>Tools</h3></td>
@@ -109,10 +148,11 @@ I like building things people can actually use. During my training I fixed real 
 
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="56" height="56" title="Git" alt="Git" /></a>&nbsp;
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="56" height="56" title="GitHub" alt="GitHub" /></a>&nbsp;
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" title="VS Code" alt="VS Code" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" title="VS Code" alt="VS Code" /></a>&nbsp;
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="56" height="56" title="Docker" alt="Docker" /></a>
 
 </td>
-<td>Version control and day-to-day development</td>
+<td>Version control, containers and deploying to the web</td>
 </tr>
 </table>
 
