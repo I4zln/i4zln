@@ -49,11 +49,13 @@ An Arabic quotes and poetry library. Readers share the quotes that stayed with t
 
 </div>
 
-**More projects**
+### 🧩 More Projects
 
-- **[Tarkeeb · تركيب](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html)** `HTML` `CSS` `JavaScript`: a PC hardware platform with a PC builder that checks compatibility, power and price, in English and Arabic ([try it](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html) · [code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy))
-- **Workshop Request System** `PHP` `MySQL`: replaced the manual handling of maintenance and device requests at the Ministry of Education in Makkah
-- **Sprout & Crumb** `IBM Bob`: a website for a fictional vegan bakery, with a menu, its story and preorders
+| Project | Description | Stack | Links |
+|:--|:--|:--|:--|
+| **Tarkeeb · تركيب** | A PC hardware platform with a PC builder that checks compatibility, power and price, in English and Arabic | `HTML` `CSS` `JavaScript` | [Live demo](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html) · [Code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy) |
+| **Workshop Request System** | Replaced the manual handling of maintenance and device requests at the Ministry of Education in Makkah | `PHP` `MySQL` | |
+| **Sprout & Crumb** | A website for a fictional vegan bakery, with a menu, its story and preorders | `Web` `IBM Bob` | |
 
 ## 🛠️ Tech Stack
 
@@ -79,12 +81,13 @@ An Arabic quotes and poetry library. Readers share the quotes that stayed with t
 
 ## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I4zln&theme=tokyonight" width="100%" alt="GitHub contributions" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=I4zln&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub streak" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I4zln&theme=tokyonight" width="49%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I4zln&theme=tokyonight" width="49%" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com?user=I4zln&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=690" width="98.5%" alt="GitHub streak" />
+
+</div>
 
 ## 📫 Contact
 
