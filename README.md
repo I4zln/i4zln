@@ -33,11 +33,9 @@ I like building things people can actually use, from the database to the interfa
 </tr>
 </table>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 <a href="https://midad-zcbt.onrender.com"><img src="./assets/midad-home.png" width="100%" alt="MIDAD home page" /></a>
 
@@ -49,25 +47,11 @@ An Arabic quotes and poetry library. Readers share the quotes that stayed with t
 
 **[Live demo](https://midad-zcbt.onrender.com) · [Code](https://github.com/I4zln/midad)**
 
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy"><img src="./assets/tarkeeb-builder.png" width="100%" alt="Tarkeeb PC Builder" /></a>
-
-### Tarkeeb · تركيب
-
-A PC hardware platform. Build a PC with live compatibility, power and price checks, learn where every part goes, and shop, in English and Arabic.
-
-`HTML` `CSS` `JavaScript` `IBM Bob`
-
-**[Code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy)**
-
-</td>
-</tr>
-</table>
+</div>
 
 **More projects**
 
+- **[Tarkeeb · تركيب](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html)** `HTML` `CSS` `JavaScript`: a PC hardware platform with a PC builder that checks compatibility, power and price, in English and Arabic ([try it](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html) · [code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy))
 - **Workshop Request System** `PHP` `MySQL`: replaced the manual handling of maintenance and device requests at the Ministry of Education in Makkah
 - **Sprout & Crumb** `IBM Bob`: a website for a fictional vegan bakery, with a menu, its story and preorders
 
