@@ -1,62 +1,180 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="عبدالعزيز المطرفي, Abdulaziz Al-Matrafi, written by a fountain pen. Every line of code begins as a line of ink." />
+<img src="./assets/hero.svg" width="100%" alt="Abdulaziz Al-Matrafi, Software Engineering Student and Full-Stack Web Developer. Every line of code begins as a line of ink." />
 
 <em>Between the ink and the terminal, every idea waits for its first line.</em>
-<br />
-<strong>Software Engineering Student | Full-Stack Web Developer</strong>
 
 </div>
 
 <br />
 
-<img src="./assets/title-about.svg" width="100%" alt="About me" />
+## 👋 About me
 
-<img src="./assets/about.svg" width="100%" alt="whoami: Abdulaziz Al-Matrafi, عبدالعزيز المطرفي. I started programming quite naturally. I kept coming across beautiful websites where people shared their ideas and turned what was in their heads into something creative, each in their own way. So I asked myself, why not start learning to code? I began experimenting with all kinds of things, just so my ideas could reach people in my own way. What I love most is the variety in creativity. Everyone has their own website and their own visual identity, and that's the beauty of it: you can stand apart from everyone else in your own way. I'm working on growing in project management and becoming professional in UI/UX. At the same time, I'm improving how I secure websites and how I make them scalable, so they can handle a huge number of visitors. Interests: full-stack web applications, software design, data structures, system analysis. Looking for: opportunities to contribute to software development projects, collaborate with technical teams, and grow as a software engineer." />
+`$ whoami`
 
-<br /><br />
+**Abdulaziz Al-Matrafi**, Software Engineering student
+at Umm Al-Qura University, Makkah.
 
-<img src="./assets/title-stack.svg" width="100%" alt="Tech stack" />
+`$ cat about.txt`
 
-<img src="./assets/stack.svg" width="100%" alt="React.js, Laravel, PHP, SQL, MySQL, JavaScript, Java" />
+I started programming quite naturally. I kept coming across beautiful websites
+where people shared their ideas and turned what was in their heads into
+something creative, each in their own way. So I asked myself, why not start
+learning to code? I began experimenting with all kinds of things, just so my
+ideas could reach people in my own way.
 
-<br /><br />
+What I love most is the variety in creativity. Everyone has their own website
+and their own visual identity, and that's the beauty of it: you can stand apart
+from everyone else in your own way.
 
-<img src="./assets/title-projects.svg" width="100%" alt="Projects" />
+I'm working on growing in project management and becoming professional in
+UI/UX. At the same time, I'm improving how I secure websites and how I make
+them scalable, so they can handle a huge number of visitors.
 
-<a href="https://midad-zcbt.onrender.com">
-<img src="./assets/project-midad.svg" width="100%" alt="MIDAD, مِداد: an Arabic quotes and poetry library. Readers share the quotes that stayed with them, save, comment and follow, and a Discover feed ranks quotes for each reader. Laravel, PostgreSQL, Docker." />
-</a>
+`$ cat interests.txt`
+
+- Full-stack web applications
+- Software design
+- Data structures
+- System analysis
+
+`$ cat looking-for.txt`
+
+- Opportunities to contribute to software development projects
+- Collaborating with technical teams
+- Growing as a software engineer
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+## 🛠️ Tech stack
+
+| Area | Tools |
+|:--|:--|
+| **Frontend** | `React.js` `JavaScript` `HTML` `CSS` |
+| **Backend** | `Laravel` `PHP` `Java` |
+| **Databases** | `SQL` `MySQL` `PostgreSQL` |
+| **Tools** | `Git` `GitHub` `Docker` `VS Code` |
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+## 🚀 Projects
+
+### MIDAD
 
 <a href="https://midad-zcbt.onrender.com"><img src="./assets/midad-home.png" width="100%" alt="MIDAD home page" /></a>
 
-<p align="center"><a href="https://midad-zcbt.onrender.com">Live demo</a> · <a href="https://github.com/I4zln/midad">Code</a></p>
+An Arabic quotes and poetry library.
 
-<a href="https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html">
-<img src="./assets/project-pc.svg" width="100%" alt="Tarkeeb, تركيب: a PC components store with a PC Builder feature that helps users explore component compatibility. HTML, CSS, JavaScript." />
-</a>
+- Readers share the quotes that stayed with them
+- They can save, comment and follow
+- A Discover feed ranks quotes for each reader
 
-<p align="center"><a href="https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html">Live demo</a> · <a href="https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy">Code</a></p>
+**Stack:** `Laravel` `PostgreSQL` `Docker`<br />
+**Links:** [Live demo](https://midad-zcbt.onrender.com) · [Code](https://github.com/I4zln/midad)
 
-<img src="./assets/project-workshop.svg" width="100%" alt="Workshop Request System: for the IT Department at the Ministry of Education (Makkah Region). Replaced manual handling of maintenance, device and returned-item requests with one tracked workflow: request submission, status tracking and data management. PHP and MySQL." />
+### Tarkeeb
 
-<img src="./assets/project-sprout.svg" width="100%" alt="Sprout &amp; Crumb: a website for a fictional vegan bakery, with a menu, its story and preorders. Web, IBM Bob." />
+A PC components store with a PC Builder feature.
 
-<br /><br />
+- Helps users explore component compatibility
+- Checks power and price as you build
+- Available in English and Arabic
 
-<img src="./assets/title-journey.svg" width="100%" alt="Journey" />
+**Stack:** `HTML` `CSS` `JavaScript`<br />
+**Links:** [Live demo](https://raw.githack.com/I4zln/Tarkeeb-Build-Your-PC-Pathy/main/Tarkeeb%20%E2%80%94%20Build%20your%20PC.html) · [Code](https://github.com/I4zln/Tarkeeb-Build-Your-PC-Pathy)
 
-<img src="./assets/journey.svg" width="100%" alt="2022 – 2025: Diploma in Programming and Computer Science, Umm Al-Qura University. Aug – Nov 2024: IT Trainee, Ministry of Education, Makkah Region, certificate of appreciation. Nov 2024 – Jan 2025: Technical Support Trainee, Makkah Municipality, 10-week cooperative training. 2025 – 2029: B.Sc. in Software Engineering, Umm Al-Qura University, member of Tuwaiq Club." />
+### Workshop Request System
 
-<br /><br />
+Built for the IT Department at the Ministry of Education (Makkah Region).
 
-<img src="./assets/title-contact.svg" width="100%" alt="Contact" />
+- Replaced manual handling of maintenance requests
+- Covers device and returned-item requests too
+- One tracked workflow: submit, track, manage
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/"><img src="./assets/contact-linkedin.svg" height="44" alt="LinkedIn" /></a>
-<a href="https://x.com/i4zl4"><img src="./assets/contact-x.svg" height="44" alt="X" /></a>
-<a href="https://www.instagram.com/i1zln/"><img src="./assets/contact-instagram.svg" height="44" alt="Instagram" /></a>
-<a href="mailto:aziz4zl@outlook.com"><img src="./assets/contact-email.svg" height="44" alt="aziz4zl@outlook.com" /></a>
-</p>
+**Stack:** `PHP` `MySQL`
+
+### Sprout & Crumb
+
+A website for a fictional vegan bakery.
+
+- A menu and the bakery's story
+- Preorders
+
+**Stack:** `Web` `IBM Bob`
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+## 💼 Experience
+
+<details>
+<summary><b>IT Trainee</b> · Ministry of Education, Makkah Region · Aug – Nov 2024</summary>
+<br />
+
+- Built a PHP and MySQL request system that replaced manual work
+- Received a certificate of appreciation from the Head of IT
+
+</details>
+
+<details>
+<summary><b>Technical Support Trainee</b> · Makkah Municipality · Nov 2024 – Jan 2025</summary>
+<br />
+
+- 10-week cooperative training
+- Networks and systems
+- Cybersecurity
+- Maintenance and user support
+
+</details>
+
+<details>
+<summary><b>AI Development Program</b> · Pathy × IBM eyouth</summary>
+<br />
+
+- Completed the program
+- Built Tarkeeb with IBM Bob
+
+</details>
+
+<details>
+<summary><b>Event Organizer</b> · Tuwaiq Club</summary>
+<br />
+
+- Organized the club's launch ceremony
+
+</details>
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+## 🎓 Education
+
+| Degree | University | Period |
+|:--|:--|:--|
+| **B.Sc. in Software Engineering** | Umm Al-Qura University | 2025 – 2029 |
+| **Diploma in Programming and Computer Science** | Umm Al-Qura University | 2022 – 2025 |
+
+Member of **Tuwaiq Club**.
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<br />
+
+## 📫 Contact
+
+| Platform | Link |
+|:--|:--|
+| **LinkedIn** | [abdulaziz-al-matrafi](https://www.linkedin.com/in/abdulaziz-al-matrafi-bbb238358/) |
+| **X** | [@i4zl4](https://x.com/i4zl4) |
+| **Instagram** | [@i1zln](https://www.instagram.com/i1zln/) |
+| **Email** | [aziz4zl@outlook.com](mailto:aziz4zl@outlook.com) |
+
+<br />
 
 <img src="./assets/footer.svg" width="100%" alt="The ink dries; the words stay." />
